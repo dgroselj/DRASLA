@@ -1,0 +1,12 @@
+
+File vorticityTurb.bin:			example turbulent vorticity profile input file
+
+Simulation parameters used to generate the profile:
+
+nPoints:			768	// number of points in each dimension
+edgeLength:			5	// edge length of the periodic square
+hypervisPow:			3	// exponent for the hyperviscous dissipation term
+hyperviscosity:			3E-13	// hyperviscosity coefficient
+friction:			0.13	// linear friction coefficient
+
+
